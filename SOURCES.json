@@ -1,0 +1,96 @@
+{
+  "verified_at": "2026-10-30 UTC",
+  "method": "GitHub API로 main SHA 고정 후 해당 SHA의 raw 원문과 LICENSE 확인",
+  "upstream_files": [
+    {
+      "repo": "cursor/plugins",
+      "commit": "4dd1d05818d19792e7cd6e818f1667f95f7e1dbe",
+      "path": "pstack/skills/in-your-own-words/SKILL.md",
+      "url": "https://raw.githubusercontent.com/cursor/plugins/4dd1d05818d19792e7cd6e818f1667f95f7e1dbe/pstack/skills/in-your-own-words/SKILL.md",
+      "sha256": "fa8ba74e27d7be371dc270ec78bbf816411477d0dfab185356c861ac8dd413ad",
+      "permalink": "https://github.com/cursor/plugins/blob/4dd1d05818d19792e7cd6e818f1667f95f7e1dbe/pstack/skills/in-your-own-words/SKILL.md"
+    },
+    {
+      "repo": "cursor/plugins",
+      "commit": "4dd1d05818d19792e7cd6e818f1667f95f7e1dbe",
+      "path": "pstack/skills/sharpen/SKILL.md",
+      "url": "https://raw.githubusercontent.com/cursor/plugins/4dd1d05818d19792e7cd6e818f1667f95f7e1dbe/pstack/skills/sharpen/SKILL.md",
+      "sha256": "563dfc460c605d311e650726288e2f1cbd61eab817db178d6e7e29643e07e7a2",
+      "permalink": "https://github.com/cursor/plugins/blob/4dd1d05818d19792e7cd6e818f1667f95f7e1dbe/pstack/skills/sharpen/SKILL.md"
+    },
+    {
+      "repo": "cursor/plugins",
+      "commit": "4dd1d05818d19792e7cd6e818f1667f95f7e1dbe",
+      "path": "pstack/skills/tdd/SKILL.md",
+      "url": "https://raw.githubusercontent.com/cursor/plugins/4dd1d05818d19792e7cd6e818f1667f95f7e1dbe/pstack/skills/tdd/SKILL.md",
+      "sha256": "eeb868e2dfebee528d730a67d7b17498fac4bb85dec2e38bc5c5176aca4d5d2f",
+      "permalink": "https://github.com/cursor/plugins/blob/4dd1d05818d19792e7cd6e818f1667f95f7e1dbe/pstack/skills/tdd/SKILL.md"
+    },
+    {
+      "repo": "cursor/plugins",
+      "commit": "4dd1d05818d19792e7cd6e818f1667f95f7e1dbe",
+      "path": "pstack/skills/interrogate/SKILL.md",
+      "url": "https://raw.githubusercontent.com/cursor/plugins/4dd1d05818d19792e7cd6e818f1667f95f7e1dbe/pstack/skills/interrogate/SKILL.md",
+      "sha256": "3f3c2e9b8cf6b180dba9f32a4aff85e5691b09805232468e37a0ba45437a9984",
+      "permalink": "https://github.com/cursor/plugins/blob/4dd1d05818d19792e7cd6e818f1667f95f7e1dbe/pstack/skills/interrogate/SKILL.md"
+    },
+    {
+      "repo": "cursor/plugins",
+      "commit": "4dd1d05818d19792e7cd6e818f1667f95f7e1dbe",
+      "path": "pstack/skills/show-me-your-work/SKILL.md",
+      "url": "https://raw.githubusercontent.com/cursor/plugins/4dd1d05818d19792e7cd6e818f1667f95f7e1dbe/pstack/skills/show-me-your-work/SKILL.md",
+      "sha256": "920a8217cbb62f92a2222fb81fc9eab17ecd554a0277e444a95a927195139bd1",
+      "permalink": "https://github.com/cursor/plugins/blob/4dd1d05818d19792e7cd6e818f1667f95f7e1dbe/pstack/skills/show-me-your-work/SKILL.md"
+    },
+    {
+      "repo": "cursor/plugins",
+      "commit": "4dd1d05818d19792e7cd6e818f1667f95f7e1dbe",
+      "path": "pstack/LICENSE",
+      "url": "https://raw.githubusercontent.com/cursor/plugins/4dd1d05818d19792e7cd6e818f1667f95f7e1dbe/pstack/LICENSE",
+      "sha256": "bc957ca6bee02792566a1a028d105e02e247c6e77cf057061674273da77b200e",
+      "permalink": "https://github.com/cursor/plugins/blob/4dd1d05818d19792e7cd6e818f1667f95f7e1dbe/pstack/LICENSE"
+    },
+    {
+      "repo": "cursor/plugins",
+      "commit": "4dd1d05818d19792e7cd6e818f1667f95f7e1dbe",
+      "path": "pstack/.cursor-plugin/plugin.json",
+      "url": "https://raw.githubusercontent.com/cursor/plugins/4dd1d05818d19792e7cd6e818f1667f95f7e1dbe/pstack/.cursor-plugin/plugin.json",
+      "sha256": "d9e56eed06fc8f8920ff532873a403355d35f2905d2c86d1968ec4da0d1a5191",
+      "permalink": "https://github.com/cursor/plugins/blob/4dd1d05818d19792e7cd6e818f1667f95f7e1dbe/pstack/.cursor-plugin/plugin.json"
+    },
+    {
+      "repo": "obra/superpowers",
+      "commit": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+      "path": "skills/systematic-debugging/SKILL.md",
+      "url": "https://raw.githubusercontent.com/obra/superpowers/2ce8aa15d05bd57213e6f746f953aafb7ded7a8b/skills/systematic-debugging/SKILL.md",
+      "sha256": "51c6435d98c83c42c96ba7c35725a0b2c376cd487fb1a4e6bd0ddbe7e33ef202",
+      "permalink": "https://github.com/obra/superpowers/blob/2ce8aa15d05bd57213e6f746f953aafb7ded7a8b/skills/systematic-debugging/SKILL.md"
+    },
+    {
+      "repo": "obra/superpowers",
+      "commit": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+      "path": "skills/verification-before-completion/SKILL.md",
+      "url": "https://raw.githubusercontent.com/obra/superpowers/2ce8aa15d05bd57213e6f746f953aafb7ded7a8b/skills/verification-before-completion/SKILL.md",
+      "sha256": "2befe7fc55bcadaa3d97dd9e8efeb633d2561c0ebe74c5a8b17c4d9e7e4520b3",
+      "permalink": "https://github.com/obra/superpowers/blob/2ce8aa15d05bd57213e6f746f953aafb7ded7a8b/skills/verification-before-completion/SKILL.md"
+    },
+    {
+      "repo": "obra/superpowers",
+      "commit": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+      "path": "LICENSE",
+      "url": "https://raw.githubusercontent.com/obra/superpowers/2ce8aa15d05bd57213e6f746f953aafb7ded7a8b/LICENSE",
+      "sha256": "a37e0e9697144819e1d965176ac4ae5bc3fa02d11e7812036bbcadf6dafe2400",
+      "permalink": "https://github.com/obra/superpowers/blob/2ce8aa15d05bd57213e6f746f953aafb7ded7a8b/LICENSE"
+    }
+  ],
+  "codex_documentation": {
+    "url": "https://learn.chatgpt.com/docs/build-skills",
+    "retrieved_at": "2026-10-30 UTC",
+    "revision": "rolling documentation; no fixed commit recorded"
+  },
+  "exam_rules": {
+    "basis": "제작 시 전달받은 시험 가이드 제한 요약",
+    "independently_verified_here": false,
+    "priority": "실제 제공되는 최신 과제 및 시험 안내 우선"
+  }
+}
