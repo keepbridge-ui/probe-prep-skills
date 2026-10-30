@@ -1,0 +1,5 @@
+interface:
+  display_name: "plan"
+  default_prompt: "$plan 막연한 요구를 중요한 질문 하나씩으로 구체화하고 명확하면 완료 근거를 확인해줘."
+policy:
+  allow_implicit_invocation: false

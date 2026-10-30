@@ -15,13 +15,13 @@ GitHub API로 main 커밋을 고정한 뒤 해당 SHA의 raw 원문을 직접 �
 
 | 참고 원문 | 이 패키지가 선별한 원칙 | 반영 위치 |
 | --- | --- | --- |
-| [in-your-own-words](https://github.com/cursor/plugins/blob/4dd1d05818d19792e7cd6e818f1667f95f7e1dbe/pstack/skills/in-your-own-words/SKILL.md) | 확정 요구를 짧게 재진술해 오해를 드러낸다. | prep-clarify |
-| [sharpen](https://github.com/cursor/plugins/blob/4dd1d05818d19792e7cd6e818f1667f95f7e1dbe/pstack/skills/sharpen/SKILL.md) | 원자료·방법·독립적인 성공 근거를 점검한다. | prep-clarify |
-| [tdd](https://github.com/cursor/plugins/blob/4dd1d05818d19792e7cd6e818f1667f95f7e1dbe/pstack/skills/tdd/SKILL.md) | 적합한 작은 검사에서 실패를 확인하고 최소 수정 후 재검사한다. | prep-build-debug |
-| [interrogate](https://github.com/cursor/plugins/blob/4dd1d05818d19792e7cd6e818f1667f95f7e1dbe/pstack/skills/interrogate/SKILL.md) | 구체적 코드 경로와 실행 근거로 결함 주장을 가린다. | prep-verify |
+| [in-your-own-words](https://github.com/cursor/plugins/blob/4dd1d05818d19792e7cd6e818f1667f95f7e1dbe/pstack/skills/in-your-own-words/SKILL.md) | 확정 요구를 짧게 재진술해 오해를 드러낸다. | plan |
+| [sharpen](https://github.com/cursor/plugins/blob/4dd1d05818d19792e7cd6e818f1667f95f7e1dbe/pstack/skills/sharpen/SKILL.md) | 원자료·방법·독립적인 성공 근거를 점검한다. | plan |
+| [tdd](https://github.com/cursor/plugins/blob/4dd1d05818d19792e7cd6e818f1667f95f7e1dbe/pstack/skills/tdd/SKILL.md) | 적합한 작은 검사에서 실패를 확인하고 최소 수정 후 재검사한다. | build |
+| [interrogate](https://github.com/cursor/plugins/blob/4dd1d05818d19792e7cd6e818f1667f95f7e1dbe/pstack/skills/interrogate/SKILL.md) | 구체적 코드 경로와 실행 근거로 결함 주장을 가린다. | check |
 | [show-me-your-work](https://github.com/cursor/plugins/blob/4dd1d05818d19792e7cd6e818f1667f95f7e1dbe/pstack/skills/show-me-your-work/SKILL.md) | 핵심 선택·이유·증거·한계를 간결하게 기록한다. | 세 스킬의 결과 요약 |
-| [systematic-debugging](https://github.com/obra/superpowers/blob/2ce8aa15d05bd57213e6f746f953aafb7ded7a8b/skills/systematic-debugging/SKILL.md) | 재현, 데이터 흐름, 가설 판별을 통해 원인에 맞춰 고친다. | prep-build-debug |
-| [verification-before-completion](https://github.com/obra/superpowers/blob/2ce8aa15d05bd57213e6f746f953aafb7ded7a8b/skills/verification-before-completion/SKILL.md) | 완료 주장을 최신 검사 출력과 대조한다. | prep-verify |
+| [systematic-debugging](https://github.com/obra/superpowers/blob/2ce8aa15d05bd57213e6f746f953aafb7ded7a8b/skills/systematic-debugging/SKILL.md) | 재현, 데이터 흐름, 가설 판별을 통해 원인에 맞춰 고친다. | build |
+| [verification-before-completion](https://github.com/obra/superpowers/blob/2ce8aa15d05bd57213e6f746f953aafb7ded7a8b/skills/verification-before-completion/SKILL.md) | 완료 주장을 최신 검사 출력과 대조한다. | check |
 
 현재 원본의 `tdd`는 명시 요청 또는 명확하고 저렴한 로컬 검사 경로를 중시하며, 새 하네스를 무조건 만들라는 지침이 아니다. `sharpen`은 목표·원자료·방법·성공 근거를 깊게 하는 지침이다. 시험 요구 자체를 임의로 고치거나 범위를 넓히는 방식으로 적용하지 않았다.
 

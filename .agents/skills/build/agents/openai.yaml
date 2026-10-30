@@ -1,0 +1,5 @@
+interface:
+  display_name: "build"
+  default_prompt: "$build 핵심 기능을 구현·수정하고 실제 검사와 기능 흐름을 설명해줘."
+policy:
+  allow_implicit_invocation: false

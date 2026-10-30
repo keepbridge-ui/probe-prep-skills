@@ -1,0 +1,5 @@
+interface:
+  display_name: "check"
+  default_prompt: "$check 실제 코드와 실행 근거로 확인하고 중요한 지점에서 한 질문씩 이해를 확인해줘."
+policy:
+  allow_implicit_invocation: false
